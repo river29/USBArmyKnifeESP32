@@ -1,0 +1,3 @@
+Use git pull to grab the latest changes to this repository
+Run git submodule update --recursive to make sure all the submodules are up to date
+Click 'Full Clean' in the PlatformIO build menu. At this point all your code and dependencies will be up to date and you can continue with the build steps above.s
